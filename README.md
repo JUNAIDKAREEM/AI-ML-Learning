@@ -1,6 +1,6 @@
 # AI & ML Learning Journey
 
-Name: (Your Name)
+Name: SHAIK JUNAID KAREEM
 Degree: B.Tech
 Branch: Artificial Intelligence & Machine Learning
 Year: 2nd Year
