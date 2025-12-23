@@ -25,7 +25,7 @@ print("Updated dictionary:", student)
 
 
 # Tuple example
-subjects = ("Maths", "Python", "Machine Learning")
+subjects = ("Maths", "    Python", "Machine Learning")
 print("Subjects:", subjects)
 
 # Access tuple
@@ -40,7 +40,17 @@ for sub in subjects:
 marks={"ram":90,"kareem":100,"jack":50,"bob":22}
 print(marks)
 print(marks.items())
-print(marks.values())
+print(marks.values())                    
 marks.update({"harry":65})
 print(marks)
+
+#example for tuple
+t=(1,5,44,66)
+print(t)
+t2=(55,66,88,4)
+print(t2)
+#concate
+print(t+t2)
+print(t1*2)
+print(t.[0:3])
 
