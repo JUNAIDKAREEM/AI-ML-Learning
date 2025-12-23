@@ -35,3 +35,12 @@ print("First subject:", subjects[0])
 print("All subjects:")
 for sub in subjects:
     print(sub)
+
+#example:-
+marks={"ram":90,"kareem":100,"jack":50,"bob":22}
+print(marks)
+print(marks.items())
+print(marks.values())
+marks.update({"harry":65})
+print(marks)
+
